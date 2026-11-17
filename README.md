@@ -20,7 +20,7 @@ Vídeo de apresentação do Bulex:
 
 ## 🎯 Jornada do Usuário
 
-**Persona:** Sr. João, 67 anos, hipertenso, dificuldade de leitura de textos pequenos.
+**Persona:** Sr. João, 67 anos, é um paciente hipertenso que acaba de receber uma novo prescrição em uma consulta ambulatorial. Ele tem dificuldade com termos técnicos e letras pequenas.
 
 **Problema:** Bulas de medicamentos são difíceis de ler (letra pequena, linguagem técnica, informações desorganizadas).
 
