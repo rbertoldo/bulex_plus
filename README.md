@@ -247,7 +247,7 @@ Os campos em lista no JSON são gravados com um item por linha e exibidos como t
 ## 📌 Observações
 
 - Este é um protótipo funcional. A leitura de QR Code usa a câmera do aparelho pelo navegador (biblioteca [html5-qrcode](https://github.com/mebjas/html5-qrcode)); a imagem é processada no próprio aparelho e não é enviada ao servidor. A câmera exige HTTPS (ou `localhost`). Também é possível digitar o número do medicamento.
-- O banco de dados é criado automaticamente na primeira execução via `lifespan` do FastAPI.
+- O banco de dados é criado automaticamente na primeira execução via "lifespan" do FastAPI.
 - Fontes grandes e layout amigável para a 3ª idade foram adotados intencionalmente para garantir acessibilidade (persona Sr. João).
 
 ## 🧪 Prova de Conceito (POC)
